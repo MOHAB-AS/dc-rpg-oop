@@ -1,4 +1,4 @@
-# GameItem Class
+# Engine/Models/GameItem.cs
 
 ## Class Diagram
 ![GameItemClass](https://user-images.githubusercontent.com/115721045/201144333-d3c568d5-3114-40fa-bdce-7edc21127951.svg)
